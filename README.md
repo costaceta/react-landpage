@@ -3,6 +3,11 @@
 ## Descrição
 Esta é uma landing page educativa chamada **React Essentials**, criada para apresentar conceitos fundamentais do React. A página foi desenvolvida utilizando **React** e **ViteJS**, com foco em design moderno e responsivo, ideal para iniciantes aprenderem os pilares do React.
 
+## Link da Aplicação
+
+[React Essentials Landpage](https://costaceta.github.io/react-landpage/)
+
+
 ## Funcionalidades
 - Apresentação de quatro conceitos fundamentais:
   - **Components**: Blocos de construção do React para compor interfaces de usuário.
